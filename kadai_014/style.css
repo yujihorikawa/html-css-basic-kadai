@@ -5,7 +5,6 @@ body {
 .google-fonts {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
   font-style: normal;
 }
 
@@ -35,10 +34,6 @@ html{
 
 p,h2{
   text-align: center;
-}
-
-p,.text-pink,.text-aqua{
-    font-size: 1rem;
 }
 
 .text-pink { 
